@@ -1,0 +1,9 @@
+joao da silva;1234;RAD;800950700
+joao da silva;1234;POO;500750800
+joao da silva;1234;DADOS;800750600
+maria clara;0900;RAD;900750450
+maria clara;0900;POO;100850700
+maria clara;0900;DADOS;550700350
+joana lima;0600;RAD;100950500
+joana lima;0600;POO;500750100
+joana lima;0600;DADOS;100250700
